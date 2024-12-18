@@ -14,5 +14,5 @@ Authorization is the process of giving someone the ability to access a resource.
 illustrate what authorization means so that you can apply those concepts to computer systems. A good example is house ownership.
 
 
-
+Microsoft Entra ID
 Azure IAM (Authentication + Authorization) =Users (Roles+Groups)  Resources=(Service Principle+Managed Identity Principle)
