@@ -12,3 +12,7 @@ by checking to see if a user's credentials match the credentials in a database o
 
 Authorization is the process of giving someone the ability to access a resource. Of course, this definition may sound obscure, but many situations in real life can help
 illustrate what authorization means so that you can apply those concepts to computer systems. A good example is house ownership.
+
+
+
+Azure IAM (Authentication + Authorization) =Users (Roles+Groups)  Resources=(Service Principle+Managed Identity Principle)
