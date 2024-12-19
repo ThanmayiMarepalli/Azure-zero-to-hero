@@ -16,3 +16,7 @@ illustrate what authorization means so that you can apply those concepts to comp
 
 Microsoft Entra ID
 Azure IAM (Authentication + Authorization) =Users (Roles+Groups)  Resources=(Service Principle+Managed Identity Principle)
+
+
+Azure CI/CD flow
+![image](https://github.com/user-attachments/assets/7d6c75a9-5abb-4d92-821b-9ab8309e12c5)
