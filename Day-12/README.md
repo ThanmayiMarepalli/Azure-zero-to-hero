@@ -19,4 +19,7 @@ Azure IAM (Authentication + Authorization) =Users (Roles+Groups)  Resources=(Ser
 
 
 Azure CI/CD flow
+
+
+
 ![image](https://github.com/user-attachments/assets/7d6c75a9-5abb-4d92-821b-9ab8309e12c5)
